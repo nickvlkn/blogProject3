@@ -1,0 +1,10 @@
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb

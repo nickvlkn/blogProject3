@@ -1,0 +1,10 @@
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

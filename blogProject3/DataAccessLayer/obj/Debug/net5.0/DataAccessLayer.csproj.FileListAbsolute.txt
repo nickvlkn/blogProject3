@@ -1,0 +1,16 @@
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\yildi\Desktop\.netcore\blogProject3\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
